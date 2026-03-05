@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-<p className="bg-amber-700">uiewfhf</p>
+
     </>
   )
 }
